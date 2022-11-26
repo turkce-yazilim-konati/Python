@@ -8,8 +8,8 @@
 * [👨🎓 Python Öğrenme](python-ogrenme-kilavuzu/python-oegrenme.md)
 * [🐤 İlk Adımlar](python-ogrenme-kilavuzu/ilk-adimlar.md)
 * [Python Kurulumu](python-ogrenme-kilavuzu/python-kurulumu.md)
-* [2. Python Yorumlayıcısını Kullanma](python-ogrenme-kilavuzu/2.-python-yorumlayicisini-kullanma.md)
-* [3. Python'a Gayri Resmi Bir Giriş](python-ogrenme-kilavuzu/3.-pythona-gayri-resmi-bir-giris.md)
+* [Python Yorumlayıcısını Kullanma](python-ogrenme-kilavuzu/python-yorumlayicisini-kullanma.md)
+* [Python'a Gayri Resmi Bir Giriş](python-ogrenme-kilavuzu/pythona-gayri-resmi-bir-giris.md)
 
 ***
 

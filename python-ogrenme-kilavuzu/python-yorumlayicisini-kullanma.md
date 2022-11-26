@@ -1,4 +1,4 @@
-# 2. Python Yorumlayıcısını Kullanma
+# Python Yorumlayıcısını Kullanma
 
 ### 2.1. Yorumlayıcıyı&#x20;
 
