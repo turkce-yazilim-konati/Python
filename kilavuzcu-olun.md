@@ -6,12 +6,19 @@ description: >-
 
 # Kılavuzcu Olun!
 
-<figure><img src=".gitbook/assets/Discord_Sunucusu.png" alt=""><figcaption><p><a href="https://turkce-yazilim-konati.github.io/discord">Türkçe Yazılım Konatı'nın Discord Sunucu - Şimdi Katıl</a></p></figcaption></figure>
+## Kılavuzda Yorumcu Olabilirsiniz
 
-Kılavuzun genel sorumlusu **Tolga ÇELİK** ile iletişime geçiniz.
+Kılavuz yazıcısı olmanıza gerek yok. Kılavuzda okuduklarınızın daha iyisi olabileceğine inanıyorsanız yazıcılara yorumlar gönderin. Başka bir amaç için kılavuzculara yardımcı olabilen bir yorumcu olarak [aramıza katılın.](https://app.gitbook.com/invite/-MWxlgX-W1vMcFTIdgUc/FzuW2n9zKfUzqQfut7gF)
 
-Tartışmalar (discussions) bölümünden tartışma başlatınız. Yazılan belgelerin sağ ucunda bulunan yazışma simgesine tıklayıp, yazılara odaklanarak tartışın.
+## Biz Discord Kullanıyoruz!
 
-[https://turkce-yazilim-konati.github.io/discord](https://turkce-yazilim-konati.github.io/discord) discord sunucusuna katılın.
+<figure><img src=".gitbook/assets/Discord_Sunucusu.png" alt=""><figcaption><p><a href="https://turkceyazilimkonati.com/discord">Türkçe Yazılım Konatı'nın Discord Sunucu - Şimdi Katıl</a></p></figcaption></figure>
 
-Kılavuzculara yardımcı olmak için bir yorumcu olarak [aramıza katılın.](https://app.gitbook.com/invite/-MWxlgX-W1vMcFTIdgUc/FzuW2n9zKfUzqQfut7gF)
+Discord sunucusuna katılın. Sesli odalarda konuşalım, yazışalım, koldaş olalım, arkadaş olalım. [Tıklayın katılın.](https://turkceyazilimkonati.com/discord)
+
+Kılavuzun genel sorumlusu **Tolga ÇELİK** ile iletişimde kalınız.
+
+## &#x20;<mark style="color:green;background-color:green;">**Yardımcı olabileceğimiz başka bir konu var mı?**</mark>&#x20;
+
+
+
