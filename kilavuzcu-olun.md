@@ -14,11 +14,11 @@ Kılavuz yazıcısı olmanıza gerek yok. Kılavuzda okuduklarınızın daha iyi
 Gitbook kullanarak kılavucu olun.
 {% endembed %}
 
-## Kılavuz Yazıcı Olun!
+## Kılavuzda Yazıcı Olabilirsiniz
 
 Aramıza katılıp kılavuz yazıcı olarak pay alabilirsiniz. Kılavuza yazı yazıp gönderebilirsiniz. Kılavuz yazıcı olmanız için bizimle iletişime geçin.
 
-## Biz Discord Kullanıyoruz!
+## Discord Kullanıyoruz
 
 <figure><img src=".gitbook/assets/Discord_Sunucusu.png" alt=""><figcaption><p><a href="https://turkceyazilimkonati.com/discord">Türkçe Yazılım Konatı'nın Discord Sunucusuna Şimdi Katıl</a></p></figcaption></figure>
 

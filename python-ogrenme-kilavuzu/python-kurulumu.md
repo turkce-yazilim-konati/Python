@@ -45,7 +45,7 @@ Python kurulumunu yaptık. Şimdi sağlamasını yapalım ve yüklediğimiz pyth
 * Çalıştır uygulamasında gerekli alana “**`CMD`**” yazarak “**Enter**” tuşuna basalım.
 * Bu işlemlerden sonra karsımıza çıkacak konsol ekranına “**`python --V`**” veya “**`python --version`**” yazarak bilgisayarımızda herhangi bir python sürümünün **mevcut olup olmadığını** kontrol edebilirsiniz.
 
-<figure><img src="../.gitbook/assets/Ekran görüntüsü 2022-11-26 020628 (1).png" alt=""><figcaption><p>Yüklü sürüm bilgisi gösterilir.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Ekran görüntüsü 2022-11-26 020628.png" alt=""><figcaption><p>Yüklü sürüm bilgisi gösterilir.</p></figcaption></figure>
 
 ### Python Kurulum ve Çalışma Dizini
 

@@ -2,7 +2,7 @@
 
 Dirliğinizde bir kez olsun yazılımcılık alanlarına yakınlaşıp bir programlama diline ilgi duydu iseniz Python adını görmüş işitmiş olmalısınız. Evet! Python bir programlama dilidir. Oldukça kullanışlı bir programlama dili olan Python'u öğrenmek epey kolaydır.
 
-<figure><img src=".gitbook/assets/python_parmaklı_çocuk (1).jpg" alt=""><figcaption><p>Python parmaklı çocuk</p></figcaption></figure>
+<figure><img src=".gitbook/assets/python_parmaklı_çocuk.jpg" alt=""><figcaption><p>Python parmaklı çocuk</p></figcaption></figure>
 
 Bilgi düzeyiniz az olsun, çok olsun, seçip ayırmadan yazdığımız bu kılavuzda Python'u anlattığımız yönleri ile tanıyacaksınız. Çaylak biri iseniz çaylaklığı geride bırakacağınız günlerin ırakta olmadığını kulağınıza fısıldayabiliriz. :shushing\_face:
 
