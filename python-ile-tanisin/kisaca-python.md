@@ -13,6 +13,6 @@ description: >-
 * Bu alanda bilgisiz biri iseniz <mark style="color:green;">**Python**</mark> ile bir başlangıç atabilirsiniz.
 * <mark style="color:green;">**Python**</mark>, <mark style="color:green;">****</mark> piton adlı yılan ile ilişkilendirilir ancak başkalarının **yanılarak yakıştırmasıdır.**
 * <mark style="color:green;">**Python**</mark>, derlenmeye gerek duymaz.
-  * Çabukluk kazandırır.
+  * Derlenmediği için çabukluk kazandırır.
 * <mark style="color:green;">**Python**</mark> birçok dilden yeğ görülüp tutulur.
 * <mark style="color:green;">**Python**</mark>, Türkiye'de türlü kurumlarca öğretilir. Bilenler iş edinebilir.
