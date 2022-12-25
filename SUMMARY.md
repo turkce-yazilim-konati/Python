@@ -1,7 +1,8 @@
 # Table of contents
 
-* [🟢 Discord'a Bağlan](https://turkceyazilimkonati.com/discord)
-* [🤝 Python İle Tanışın](README.md)
+* [İletişim Ağı](README.md)
+  * [🟢 Discord'a Katıl](https://turkceyazilimkonati.com/discord)
+* [🤝 Python İle Tanışın](<README (1).md>)
   * [🍫 Kısaca Python](python-ile-tanisin/kisaca-python.md)
 
 ## PYTHON ÖĞRENME KILAVUZU <a href="#python-ogrenme-kilavuzu" id="python-ogrenme-kilavuzu"></a>
