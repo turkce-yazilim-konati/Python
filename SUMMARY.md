@@ -18,3 +18,4 @@
 * [Python 3.10.8](python-3.10.8/README.md)
   * [Python 3.10'daki Yenilikler](python-3.10.8/python-3.10daki-yenilikler.md)
 * [Kılavuzcu Olun!](kilavuzcu-olun.md)
+* [⭐⭐⭐](undefined.md)
