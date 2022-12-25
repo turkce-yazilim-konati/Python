@@ -1,5 +1,6 @@
 # Table of contents
 
+* [🟢 Discord'a Bağlan](https://turkceyazilimkonati.com/discord)
 * [🤝 Python İle Tanışın](README.md)
   * [🍫 Kısaca Python](python-ile-tanisin/kisaca-python.md)
 
