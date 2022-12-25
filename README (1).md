@@ -39,5 +39,5 @@ Python, varlığının taşıdığı tüm özellikleri ile büyük bir ün kazan
 
 Kendinizi çaylak sayamayacak düzeyde mi görüyorsunuz? Hiç bunalmayın sıkılmayın. Python programlama dili ile programlama yolculuğuna çıkabilirsiniz.
 
-[Haydi! Python öğrenmeye!](python-ogrenme-kilavuzu/neden-python-oegrenmeliyim.md)
+[Haydi! Python öğrenmeye!](python-ogrenme-kilavuzu/niye-python-oegrenmeliyim.md)
 
