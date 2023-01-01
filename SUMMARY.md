@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🟢 Python Anabeti](README.md)
+* [Python Programlama Dili](README.md)
 * [🤝 Python İle Tanışın](<README (1).md>)
   * [🍫 Kısaca Python](python-ile-tanisin/kisaca-python.md)
 
