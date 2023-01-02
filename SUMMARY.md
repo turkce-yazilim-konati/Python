@@ -6,10 +6,10 @@
 
 ## PYTHON ÖĞRENME KILAVUZU <a href="#python-ogrenme-kilavuzu" id="python-ogrenme-kilavuzu"></a>
 
-* [👨🎓 Niye Python Öğrenmeliyim?](python-ogrenme-kilavuzu/niye-python-oegrenmeliyim.md)
+* [Niye Python Öğrenmeliyim?](python-ogrenme-kilavuzu/niye-python-oegrenmeliyim.md)
 * [🐤 İlk Adımlar](python-ogrenme-kilavuzu/ilk-adimlar.md)
 * [Python Kurulumu](python-ogrenme-kilavuzu/python-kurulumu.md)
-* [⌨ Visual Studio Code kurulumu](python-ogrenme-kilavuzu/visual-studio-code-kurulumu.md)
+* [Visual Studio Code Kurma](python-ogrenme-kilavuzu/visual-studio-code-kurma.md)
 * [Python Yorumlayıcısını Kullanma](python-ogrenme-kilavuzu/python-yorumlayicisini-kullanma.md)
 * [Python'a Gayri Resmi Bir Giriş](python-ogrenme-kilavuzu/pythona-gayri-resmi-bir-giris.md)
 
