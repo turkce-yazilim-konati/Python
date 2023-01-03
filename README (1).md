@@ -1,10 +1,20 @@
+---
+description: >-
+  Python ile tanışmaya hoş geldiniz. Gelin size Python'nun ne olduğundan,
+  nerelerde kullanıldığından kısaca söz edelim.
+cover: .gitbook/assets/python_parmaklı_çocuk.jpg
+coverY: -17.619433198380566
+---
+
 # 🤝 Python İle Tanışın
 
-Dirliğinizde bir kez olsun yazılımcılık alanına göz atar iseniz Python programlama dili adını çok geçmeden işitirsiniz. Evet! Python bir programlama dilidir. Oldukça kullanışlı, oldukça kolaydır. Öyle ise Python programlama dilini öğrenmeye buyrun.
+<figure><img src=".gitbook/assets/python-kod-001.png" alt=""><figcaption><p>Bu bir Python örneğidir.</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/python_parmaklı_çocuk.jpg" alt=""><figcaption><p>Python parmaklı çocuk</p></figcaption></figure>
+Python programlama dilini, yazılımcılık alanına biz kez olsun göz atmış iseniz dirliğinizde[^1] işitmiş olmanız, görmüş olmanız gerekir. Evet! Python oldukça kullanışlıdır, oldukça kolaydır. Bilgi düzeyiniz ne olur ise olsun, ister çaylak olun ister uzman... Python'u anlattığımız yönleri ile her kişinin tanıyıp çabucak öğrenebileceği, okuyup kolayca anlayabileceği bir kılavuz yazmaktayız.
 
-Bilgi düzeyiniz ister iseniz az olsun, ister iseniz çok olsun... Biz hepinizin anlayabileceği ortak bir dilde bu kılavuzu yazdık. Bu kılavuzda Python'u anlattığımız yönleri ile tanıyacaksınız. Çaylak biri olabilirsiniz. Çaylak olmayı geride bırakacağınız günlerinin ırak olmadığını kulağınıza fısıldayabiliriz. :shushing\_face:
+{% embed url="https://www.youtube.com/watch?v=hgI0p1zf31k" %}
+"The PEP 8" Yırı
+{% endembed %}
 
 ## Programlama Dili Nedir?
 
@@ -24,10 +34,6 @@ Python bir programlama dili olsa dahi türdeşlerin ayrıldığı yanları vard�
 
 Python, varlığının taşıdığı tüm özellikleri ile büyük bir ün kazanmıştır. Tanınmış büyük işletmelerce kullanılmaktadır. Günümüzde Türkiye'deki işletmelerde kullanılmaktadır. Türlü eğitim kurumlarında öğretilmektedir.
 
-{% embed url="https://www.youtube.com/watch?v=hgI0p1zf31k" %}
-"The PEP 8" Yırı
-{% endembed %}
-
 ## Python'u, Guido Van Rossum Var Etti!
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>1999</td><td>Guido Van Rossum</td><td><a href=".gitbook/assets/Guido Van Rossum - 1999.gif">Guido Van Rossum - 1999.gif</a></td></tr><tr><td>2006</td><td>Guido Van Rossum</td><td><a href=".gitbook/assets/Guido Van Rossum - 2006.jpg">Guido Van Rossum - 2006.jpg</a></td></tr><tr><td>2019</td><td>Guido Van Rossum</td><td><a href=".gitbook/assets/Guido Van Rossum - 2019.jpg">Guido Van Rossum - 2019.jpg</a></td></tr></tbody></table>
@@ -41,3 +47,6 @@ Kendinizi çaylak sayamayacak düzeyde mi görüyorsunuz? Hiç bunalmayın sık�
 
 [Haydi! Python öğrenmeye!](python-ogrenme-kilavuzu/niye-python-oegrenmeliyim.md)
 
+
+
+[^1]: 
