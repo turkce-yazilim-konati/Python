@@ -10,7 +10,11 @@ coverY: -17.619433198380566
 
 <figure><img src=".gitbook/assets/python-kod-001.png" alt=""><figcaption><p>Bu bir Python örneğidir.</p></figcaption></figure>
 
-Python programlama dilini, yazılımcılık alanına biz kez olsun göz atmış iseniz dirliğinizde[^1] işitmiş olmanız, görmüş olmanız gerekir. Evet! Python oldukça kullanışlıdır, oldukça kolaydır. Bilgi düzeyiniz ne olur ise olsun, ister çaylak olun ister uzman... Python'u anlattığımız yönleri ile her kişinin tanıyıp çabucak öğrenebileceği, okuyup kolayca anlayabileceği bir kılavuz yazmaktayız.
+Python programlama dilini, bir kez olsun yazılımcılık alanına göz atmış iseniz dirliğinizde[^1] işitmiş görmüş olmanız gerekir. Evet! Programlama dili olan Python oldukça kullanışlıdır, oldukça kolaydır.&#x20;
+
+> <img src=".gitbook/assets/türkçe-yazılım-konatı-simgesi-logosu.png" alt="" data-size="line"> **TÜRKÇE YAZILIM KONATI**
+>
+> "_Bilgi düzeyiniz ne olur ise olsun, ister çaylak olun ister uzman. Bu kılavuz size göre. Python'u anlattığımız yönleri ile her kişinin tanıyıp çabucak öğrenebileceği, okuyup kolayca anlayabileceği bir kılavuz yazmaktayız._"
 
 {% embed url="https://www.youtube.com/watch?v=hgI0p1zf31k" %}
 "The PEP 8" Yırı
