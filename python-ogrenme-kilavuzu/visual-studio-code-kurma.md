@@ -10,7 +10,7 @@ Kuruluma başlamak için öncelikle [https://code.visualstudio.com/Download](htt
 
 ### Öneriler:
 
-VS Code Türk dili desteği sunmaktadır, bunun için eklentiler bölümüne; Turkish yazarak dil paketini kurabilirsiniz.
+VS Code Türk dili desteği sunmaktadır, bunun için "Ctrl + Shift + X" tuşlarına basınız, eklenti arama bölümüne; "Turkish" yazarak ilgili dil paketini kurabilirsiniz. Paket kurulduktan sonra programı yeniden başlatınız.
 
 ![](<../.gitbook/assets/image (1).png>)
 
