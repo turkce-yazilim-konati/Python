@@ -1,20 +1,68 @@
 ---
 description: >-
-  Python ile tanışmaya hoş geldiniz. Gelin size Python'nun ne olduğundan,
-  nerelerde kullanıldığından kısaca söz edelim.
-cover: .gitbook/assets/python_parmaklı_çocuk.jpg
-coverY: -17.619433198380566
+  Python ile tanışmaya hoş geldiniz. Bu bette size Python'nun ne olduğundan,
+  nerelerde kullanıldığından ve birçok ilgili konudan kısaca söz edeceğiz.
+cover: .gitbook/assets/python-kod-001.png
+coverY: 0
 ---
 
-# 🤝 Python İle Tanışın
+# Python İle Tanışın
 
-<figure><img src=".gitbook/assets/python-kod-001.png" alt=""><figcaption><p>Bu bir Python örneğidir.</p></figcaption></figure>
+Python programlama dilini, bir kez olsun yazılımcılık alanına göz atmış iseniz dirliğinizde[^1] işitip görmüş olmalısınız. Evet! Python oldukça kullanışlı ve kolay bir programlama dilidir. Python'u tanımanız için size şunlardan söz edeceğiz.
 
-Python programlama dilini, bir kez olsun yazılımcılık alanına göz atmış iseniz dirliğinizde[^1] işitmiş görmüş olmanız gerekir. Evet! Programlama dili olan Python oldukça kullanışlıdır, oldukça kolaydır.&#x20;
+* [#python-nedir](<README (1).md#python-nedir> "mention")
+* [#pythonu-kim-var-etti](<README (1).md#pythonu-kim-var-etti> "mention")
+* Python Neler Eder, İşler, Yapar, Kılar, Kullanır?
+* [#python-ile-neler-yapilabilir-edilebilir-islenebilir-kililabilir-kullanilabilir-eylenebilir-olabilir](<README (1).md#python-ile-neler-yapilabilir-edilebilir-islenebilir-kililabilir-kullanilabilir-eylenebilir-olabilir> "mention")
+* Niye Python Kullanmalıyım?
+* Niçin Python Kullanmalıyım?
+* [#pep-8-nedir](<README (1).md#pep-8-nedir> "mention")
 
-> <img src=".gitbook/assets/türkçe-yazılım-konatı-simgesi-logosu.png" alt="" data-size="line"> **TÜRKÇE YAZILIM KONATI**
->
-> "_Bilgi düzeyiniz ne olur ise olsun, ister çaylak olun ister uzman. Bu kılavuz size göre. Python'u anlattığımız yönleri ile her kişinin tanıyıp çabucak öğrenebileceği, okuyup kolayca anlayabileceği bir kılavuz yazmaktayız._"
+## Python Nedir?
+
+Python bir programlama dilidir. Böyle olsa dahi türdeşlerin ayrıldığı yanları vardır. Başka programlama dilleri derlenmeye gerek duyar iken Python, derlenmeye gerek duymaz. Bu özelliği ile programlama yapan kişiyi bekletmez yavaşlatmaz. Dilin yapısı arı duru olduğu için pek çok kişi başka dillerden yeğ görmektedir. Bunun bir getirisi, yazdığınız programı bir başkası okur okumaz anlayabilir ve tersice.
+
+Python, varlığının taşıdığı tüm özellikleri ile büyük bir ün kazanmıştır. Tanınmış büyük işletmelerce kullanılmaktadır. Günümüzde Türkiye'deki işletmelerde kullanılmaktadır. Türlü eğitim kurumlarında öğretilmektedir.
+
+## Python İle Neler [Yapılabilir](<README (1).md#neler-yapilabilir>), [Edilebilir](<README (1).md#neler-edilebilir>), [İşlenebilir](<README (1).md#neler-islenebilir>), [Kılılabilir](<README (1).md#neler-kililabilir>), [Kullanılabilir](<README (1).md#neler-kullanilabilir>), Eylenebilir, Olabilir?&#x20;
+
+{% tabs %}
+{% tab title="Neler Yapılabilir?" %}
+* Python ile ağ sunucusu tabanlı ağ işleri yapılabilir.
+* Python ile masaüstü bilgisayar yazılımları yapılabilir.
+* Python ile veritabanı işlemleri yapılabilir.
+* Python ile büyük veri işleri yapılabilir.
+* Python ile karmaşık matematik işlemleri yapılabilir.
+* Python ile yapay zekâ yapılabilir.
+{% endtab %}
+
+{% tab title="Neler Edilebilir?" %}
+
+{% endtab %}
+
+{% tab title="Neler İşlenebilir?" %}
+Python ile görüntü işlenebilir.
+
+Python ile ses işlenebilir.
+{% endtab %}
+
+{% tab title="Neler Kılılabilir?" %}
+
+{% endtab %}
+
+{% tab title="Neler Kullanılabilir?" %}
+Python ile kütüphaneler kullanılabilir.
+{% endtab %}
+{% endtabs %}
+
+## PEP 8 Nedir?
+
+PEP 8 bir yazım kuralıdır. Python'da kodları yazar iken bir yazım düzenine gerek duyarız. Böylece programlama işini yapan kişiler birbirlerinin yazdıklarını anlayabilir. Bir kişinin yazdığı bilgisayarın anlayacağı bir yapıya dönüştürülebilir.  Guido van ROSSUM, Barry WARSAW ve Nick COGHLAN bir araya gelip PEP 8'i oluşturmuşlardır. Daha ayrıntılı bilgileri aşağıdaki konularda bulabilirsiniz.
+
+* PEP 8 Kuralları
+* Niye PEP 8 Kurallarına Uymalıyız?
+* Okunabilirliğin Önemi Ve PEP 8
+* PEP 8 Kurallarını Yok Sayabilir Miyiz?
 
 {% embed url="https://www.youtube.com/watch?v=hgI0p1zf31k" %}
 "The PEP 8" Yırı
@@ -32,13 +80,7 @@ Bir programlama dili, sizi donanımlar üstünde bey eder. Atın dizginlerini ka
 
 Evet! Programlama dilleri gerçek kişilerin anlayabileceği bir yöntem tabanı üstüne kurulmuştur. Yalnızca yazı yazarak donanımları istenen yolda, istenen biçimde işleyebilmek ve işletebilmek için vardırlar.&#x20;
 
-## Python Programlama Dili Nedir?
-
-Python bir programlama dili olsa dahi türdeşlerin ayrıldığı yanları vardır. Başka programlama dilleri derlenmeye gerek duyar iken Python derlenmeye gerek duymaz. Bu özelliği ile programlama yapan kişiyi bekletmez yavaşlatmaz. Dilin yapısı arı duru olduğu için pek çok kişi başka dillerden yeğ görmektedir. Bunun bir getirisi, yazdığınız programı bir başkası okur okumaz anlayabilir ve tersice.
-
-Python, varlığının taşıdığı tüm özellikleri ile büyük bir ün kazanmıştır. Tanınmış büyük işletmelerce kullanılmaktadır. Günümüzde Türkiye'deki işletmelerde kullanılmaktadır. Türlü eğitim kurumlarında öğretilmektedir.
-
-## Python'u, Guido Van Rossum Var Etti!
+## Python'u Kim Var Etti?
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>1999</td><td>Guido Van Rossum</td><td><a href=".gitbook/assets/Guido Van Rossum - 1999.gif">Guido Van Rossum - 1999.gif</a></td></tr><tr><td>2006</td><td>Guido Van Rossum</td><td><a href=".gitbook/assets/Guido Van Rossum - 2006.jpg">Guido Van Rossum - 2006.jpg</a></td></tr><tr><td>2019</td><td>Guido Van Rossum</td><td><a href=".gitbook/assets/Guido Van Rossum - 2019.jpg">Guido Van Rossum - 2019.jpg</a></td></tr></tbody></table>
 

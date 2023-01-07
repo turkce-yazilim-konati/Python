@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Python Programlama Dili](README.md)
-* [🤝 Python İle Tanışın](<README (1).md>)
+* [Python İle Tanışın](<README (1).md>)
   * [🍫 Kısaca Python](python-ile-tanisin/kisaca-python.md)
 
 ## PYTHON ÖĞRENME KILAVUZU <a href="#python-ogrenme-kilavuzu" id="python-ogrenme-kilavuzu"></a>
@@ -15,7 +15,7 @@
 ***
 
 * [3. Python Objeleri ve Veri Yapıları](3.-python-objeleri-ve-veri-yapilari/README.md)
-  * [3.1 Sayı veri tipleri](3.-python-objeleri-ve-veri-yapilari/3.1-sayi-veri-tipleri.md)
+  * [3.1 Sayı Verisi Türleri](3.-python-objeleri-ve-veri-yapilari/3.1-sayi-verisi-tuerleri.md)
   * [3.2 Mantıksal operatörler](3.-python-objeleri-ve-veri-yapilari/3.2-mantiksal-operatoerler.md)
   * [3.3 Değişken tanımlama](3.-python-objeleri-ve-veri-yapilari/3.3-degisken-tanimlama.md)
   * [3.4 Verri tipi dönüşümleri](3.-python-objeleri-ve-veri-yapilari/3.4-verri-tipi-doenuesuemleri.md)
