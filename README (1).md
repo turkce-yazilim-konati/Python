@@ -28,8 +28,8 @@ Python, varlığının taşıdığı tüm özellikleri ile büyük bir ün kazan
 
 <figure><img src=".gitbook/assets/Guido van Rossum 1999 2006 2019.gif" alt=""><figcaption><p>1999, 2006, 2019 - Guido van Rossum</p></figcaption></figure>
 
-| Görüntüde gördüğünüz Python programlama dilini var eden kişinin adı <mark style="color:purple;">**Guido Van Rossum**</mark>'dur. Hollanda'lıdır. Pythonu var etmeye 1990'larda kolları sıvayıp başlamıştır. Sıra adını koymaya geldiğinde, **The Monty Python** adlı bir İngiliz gülgü toparının **Monty Python’s Flying Circus** adlı gösterisinden esinlenmiş, programlama dilinin adını **Python** adını koymuştur. Gerçek böyle olsa dahi düşüncelerde yılan türü piton ile ilişkilendirilmesine engel olmamıştır. | ![](.gitbook/assets/19747589\_8a6z\_ag9l\_210716.jpg) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Görüntüde gördüğünüz Python programlama dilini var eden kişinin adı <mark style="color:purple;">**Guido Van Rossum**</mark>'dur. Hollandalıdır. Pythonu var etmeye 1990'larda kolları sıvayıp başlamıştır. Sıra adını koymaya geldiğinde, **The Monty Python** adlı bir İngiliz gülgü toparının **Monty Python’s Flying Circus** adlı gösterisinden esinlenmiş, programlama dilinin adını **Python** adını koymuştur. Gerçek böyle olsa dahi düşüncelerde yılan türü piton ile ilişkilendirilmesine engel olmamıştır. | ![](.gitbook/assets/19747589\_8a6z\_ag9l\_210716.jpg) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 
 ## Python İle Neler [Yapılabilir](<README (1).md#neler-yapilabilir>), [Edilebilir](<README (1).md#neler-edilebilir>), [İşlenebilir](<README (1).md#neler-islenebilir>), [Kılılabilir](<README (1).md#neler-kililabilir>), [Kullanılabilir](<README (1).md#neler-kullanilabilir>), Eylenebilir, Olabilir?&#x20;
 
@@ -66,28 +66,15 @@ Python ile türlü türlü veritabanları kullanılabilir.
 {% endtab %}
 {% endtabs %}
 
-## PEP 8 Nedir?
-
-PEP 8 bir yazım kuralıdır. Python'da kodları yazar iken bir yazım düzenine gerek duyarız. Böylece programlama işini yapan kişiler birbirlerinin yazdıklarını anlayabilir. Bir kişinin yazdığı bilgisayarın anlayacağı bir yapıya dönüştürülebilir.  Guido van ROSSUM, Barry WARSAW ve Nick COGHLAN bir araya gelip PEP 8'i oluşturmuşlardır. Daha ayrıntılı bilgileri aşağıdaki konularda bulabilirsiniz.
-
-* PEP 8 Kuralları
-* Niye PEP 8 Kurallarına Uymalıyız?
-* Okunabilirliğin Önemi Ve PEP 8
-* PEP 8 Kurallarını Yok Sayabilir Miyiz?
-
-{% embed url="https://www.youtube.com/watch?v=hgI0p1zf31k" %}
-"The PEP 8" Yırı
-{% endembed %}
-
 ## Programlama Dili Nedir?
 
 Programlama dili denince anlamanızı istediğimiz şudur:&#x20;
 
 > _"Bir bakışta anlaşılamayan yığma yazılar bütünü ile bilgisayara işler yaptırmak."_
 
-Durun durun! Gözünüz korkmasın. Kaygılanmanız yersiz.
+Durun durun! Kaygılanıp gözünüz korkması yersiz.
 
-Bir programlama dili, sizi donanımlar üstünde bey eder. Atın dizginlerini kavrayan kişinin ata yön vermesi gibidir. Donanımları kullanabilmenize yarar. Bu donanımlar, işlemcilerden bilgisayarlara dek türlü türlü yapılar olabilir. Yeni bilgiler kazandıkça kendinizi bir bey gibi, bir han gibi, bir hanım gibi duyacaksınız.&#x20;
+Bir programlama dili, donanımlar üstünde sizi bey eder. İşler, atın dizginlerini kavrayan at binicisinin ata yön vermesi gibidir. Programlama dilleri, donanımları kullanabilmenize yarar. Bu donanımlar, bilgisayar işlemcileriden bilgisayarların kendisine dek türlü türlü yapılar olabilir. Yeni bilgiler kazandıkça kendinizi bir bey gibi, bir han gibi, bir hanım gibi duyacaksınız.&#x20;
 
 Evet! Programlama dilleri gerçek kişilerin anlayabileceği bir yöntem tabanı üstüne kurulmuştur. Yalnızca yazı yazarak donanımları istenen yolda, istenen biçimde işleyebilmek ve işletebilmek için vardırlar.&#x20;
 
