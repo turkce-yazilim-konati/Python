@@ -24,6 +24,13 @@ Python bir programlama dilidir. Böyle olsa dahi türdeşlerin ayrıldığı yan
 
 Python, varlığının taşıdığı tüm özellikleri ile büyük bir ün kazanmıştır. Tanınmış büyük işletmelerce kullanılmaktadır. Günümüzde Türkiye'deki işletmelerde kullanılmaktadır. Türlü eğitim kurumlarında öğretilmektedir.
 
+## Python'u Kim Var Etti?
+
+<figure><img src=".gitbook/assets/Guido van Rossum 1999 2006 2019.gif" alt=""><figcaption><p>1999, 2006, 2019 - Guido van Rossum</p></figcaption></figure>
+
+| Görüntüde gördüğünüz Python programlama dilini var eden kişinin adı <mark style="color:purple;">**Guido Van Rossum**</mark>'dur. Hollanda'lıdır. Pythonu var etmeye 1990'larda kolları sıvayıp başlamıştır. Sıra adını koymaya geldiğinde, **The Monty Python** adlı bir İngiliz gülgü toparının **Monty Python’s Flying Circus** adlı gösterisinden esinlenmiş, programlama dilinin adını **Python** adını koymuştur. Gerçek böyle olsa dahi düşüncelerde yılan türü piton ile ilişkilendirilmesine engel olmamıştır. | ![](.gitbook/assets/19747589\_8a6z\_ag9l\_210716.jpg) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+
 ## Python İle Neler [Yapılabilir](<README (1).md#neler-yapilabilir>), [Edilebilir](<README (1).md#neler-edilebilir>), [İşlenebilir](<README (1).md#neler-islenebilir>), [Kılılabilir](<README (1).md#neler-kililabilir>), [Kullanılabilir](<README (1).md#neler-kullanilabilir>), Eylenebilir, Olabilir?&#x20;
 
 {% tabs %}
@@ -44,6 +51,8 @@ Python, varlığının taşıdığı tüm özellikleri ile büyük bir ün kazan
 Python ile görüntü işlenebilir.
 
 Python ile ses işlenebilir.
+
+Python ile veritabanı işlenebilir.
 {% endtab %}
 
 {% tab title="Neler Kılılabilir?" %}
@@ -51,7 +60,9 @@ Python ile ses işlenebilir.
 {% endtab %}
 
 {% tab title="Neler Kullanılabilir?" %}
-Python ile kütüphaneler kullanılabilir.
+Python ile türlü türlü kütüphaneler kullanılabilir.
+
+Python ile türlü türlü veritabanları kullanılabilir.
 {% endtab %}
 {% endtabs %}
 
@@ -79,13 +90,6 @@ Durun durun! Gözünüz korkmasın. Kaygılanmanız yersiz.
 Bir programlama dili, sizi donanımlar üstünde bey eder. Atın dizginlerini kavrayan kişinin ata yön vermesi gibidir. Donanımları kullanabilmenize yarar. Bu donanımlar, işlemcilerden bilgisayarlara dek türlü türlü yapılar olabilir. Yeni bilgiler kazandıkça kendinizi bir bey gibi, bir han gibi, bir hanım gibi duyacaksınız.&#x20;
 
 Evet! Programlama dilleri gerçek kişilerin anlayabileceği bir yöntem tabanı üstüne kurulmuştur. Yalnızca yazı yazarak donanımları istenen yolda, istenen biçimde işleyebilmek ve işletebilmek için vardırlar.&#x20;
-
-## Python'u Kim Var Etti?
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>1999</td><td>Guido Van Rossum</td><td><a href=".gitbook/assets/Guido Van Rossum - 1999.gif">Guido Van Rossum - 1999.gif</a></td></tr><tr><td>2006</td><td>Guido Van Rossum</td><td><a href=".gitbook/assets/Guido Van Rossum - 2006.jpg">Guido Van Rossum - 2006.jpg</a></td></tr><tr><td>2019</td><td>Guido Van Rossum</td><td><a href=".gitbook/assets/Guido Van Rossum - 2019.jpg">Guido Van Rossum - 2019.jpg</a></td></tr></tbody></table>
-
-| Yüzünü gördüğünüz kişi <mark style="color:purple;">**Guido Van Rossum**</mark>'dur. Python programlama dilini var eden kişidir. Hollanda'lıdır. 1990'larda kolları sıvayıp Python'u var etmeye başlamıştır. Sıra adını koymaya geldiğinde, **The Monty Python** adlı bir İngiliz gülgü toparının **Monty Python’s Flying Circus** adlı gösterisinden esinlenmiştir. Gerçek böyle olsa dahi insanların yılan türü piton ile ilişkilendirilmesine engel olmamıştır. Günümüze dek böylece gelmiştir. | <img src=".gitbook/assets/19747589_8a6z_ag9l_210716.jpg" alt="" data-size="original"> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 
 ## Çaylak Değil Misiniz?
 
