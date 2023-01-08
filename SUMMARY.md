@@ -3,7 +3,7 @@
 * [Python Kılavuzu](README.md)
 * [Python İle Tanışın](<README (1).md>)
   * [PEP 8 Bilgisi](python-ile-tanisin/pep-8-bilgisi.md)
-  * [🍫 Kısaca Python](python-ile-tanisin/kisaca-python.md)
+  * [Kısaca Python](python-ile-tanisin/kisaca-python.md)
 
 ## PYTHON ÖĞRENME KILAVUZU <a href="#python-ogrenme-kilavuzu" id="python-ogrenme-kilavuzu"></a>
 
