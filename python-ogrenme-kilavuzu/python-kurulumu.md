@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/1500x500 (1) (1).jpeg
-coverY: -150.5703422053232
----
-
 # Python Kurulumu
 
 ### Windows Kullanıcıları
