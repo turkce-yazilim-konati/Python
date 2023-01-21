@@ -7,7 +7,7 @@ cover: >-
 coverY: -333.6237623762376
 ---
 
-# 🐤 İlk Adımlar
+# İlk Adımlar
 
 Bilgisayarlar ile içli dışlı olur iseniz er geç kendi kendine işlettirmek istediğiniz bir görev olduğunu görüsünüz. Küçük bir örnek verelim.&#x20;
 

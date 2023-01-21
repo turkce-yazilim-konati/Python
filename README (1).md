@@ -8,14 +8,14 @@ coverY: 0
 
 # Python İle Tanışın
 
-Python programlama dilini, bir kez olsun yazılımcılık alanına göz atmış iseniz dirliğinizde[^1] işitip görmüş olmalısınız. Evet! Python oldukça kullanışlı ve kolay bir programlama dilidir. Python'u tanımanız için size şunlardan söz edeceğiz.
+Python programlama dilini, bir kez olsun yazılımcılık alanına göz atmış iseniz dirliğinizde[^1] işitip görmüş olmalısınız. Evet! Python oldukça kullanışlı ve kolay bir programlama dilidir.
 
 <details>
 
 <summary>📂 Python'u tanımanız için şunlardan söz edeceğiz.</summary>
 
 * [#python-nedir](<README (1).md#python-nedir> "mention")
-* [#pythonu-kim-var-etti](<README (1).md#pythonu-kim-var-etti> "mention")
+* [#pythonu-kim-yapti](<README (1).md#pythonu-kim-yapti> "mention")
 * Python Neler Eder, İşler, Yapar, Kılar, Kullanır?
 * [#python-ile-neler-yapilabilir-edilebilir-islenebilir-kililabilir-kullanilabilir-eylenebilir-olabilir](<README (1).md#python-ile-neler-yapilabilir-edilebilir-islenebilir-kililabilir-kullanilabilir-eylenebilir-olabilir> "mention")
 * Niye Python Kullanmalıyım?
@@ -37,7 +37,7 @@ Python, varlığının taşıdığı tüm özellikleri ile büyük bir ün kazan
 
 :arrow\_up: [Başa dön.](<README (1).md#pythonu-tanimaniz-icin-sunlardan-soez-edecegiz.>)
 
-## Python'u Kim Var Etti?
+## Python'u Kim Yaptı?
 
 <figure><img src=".gitbook/assets/Guido van Rossum 1999 2006 2019.gif" alt=""><figcaption><p>1999, 2006, 2019 - Guido van Rossum</p></figcaption></figure>
 

@@ -3,14 +3,16 @@
 * [Python Kılavuzu](README.md)
 * [Python İle Tanışın](<README (1).md>)
   * [Python Nedir?](https://app.gitbook.com/s/agZ2Pv9tw7NxHg5jQ0Bj/python-ile-tanisin#python-nedir)
-  * [Python'u Kim Var Etti?](https://app.gitbook.com/s/agZ2Pv9tw7NxHg5jQ0Bj/python-ile-tanisin#pythonu-kim-var-etti)
+  * [Python'u Kim Yaptı?](https://app.gitbook.com/s/agZ2Pv9tw7NxHg5jQ0Bj/python-ile-tanisin#pythonu-kim-yapti)
   * [PEP 8 Bilgisi](python-ile-tanisin/pep-8-bilgisi.md)
   * [Kısaca Python](python-ile-tanisin/kisaca-python.md)
+* [Temel Konular](temel-konular/README.md)
+  * [Veri](temel-konular/veri.md)
 
 ## PYTHON ÖĞRENME KILAVUZU <a href="#python-ogrenme-kilavuzu" id="python-ogrenme-kilavuzu"></a>
 
-* [👨🎓 Niye Python Öğrenmeliyim?](python-ogrenme-kilavuzu/niye-python-oegrenmeliyim.md)
-* [🐤 İlk Adımlar](python-ogrenme-kilavuzu/ilk-adimlar.md)
+* [Niye Python Öğrenmeliyim?](python-ogrenme-kilavuzu/niye-python-oegrenmeliyim.md)
+* [İlk Adımlar](python-ogrenme-kilavuzu/ilk-adimlar.md)
 * [Python Kurulumu](python-ogrenme-kilavuzu/python-kurulumu.md)
 * [Visual Studio Code Yazılımını Kurma](python-ogrenme-kilavuzu/visual-studio-code-yazilimini-kurma.md)
 * [Python Yorumlayıcısını Kullanma](python-ogrenme-kilavuzu/python-yorumlayicisini-kullanma.md)
