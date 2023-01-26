@@ -8,6 +8,8 @@
   * [Kısaca Python](python-ile-tanisin/kisaca-python.md)
 * [Temel Konular](temel-konular/README.md)
   * [Veri](temel-konular/veri.md)
+* [Sözdizimi](soezdizimi/README.md)
+  * [Sözdizimi Kuralları](soezdizimi/soezdizimi-kurallari.md)
 
 ## PYTHON ÖĞRENME KILAVUZU <a href="#python-ogrenme-kilavuzu" id="python-ogrenme-kilavuzu"></a>
 
@@ -35,4 +37,6 @@
   * [3.x Sözlük](3.-python-objeleri-ve-veri-yapilari/3.x-soezluek/README.md)
     * [...](3.-python-objeleri-ve-veri-yapilari/3.x-soezluek/....md)
 * [Kılavuzcu Olun!](kilavuzcu-olun.md)
-* [⭐⭐⭐](undefined.md)
+* [⭐⭐⭐](undefined/README.md)
+  * [Sözdizimi](undefined/soezdizimi/README.md)
+    * [Python'da Veri Türleri](<undefined/soezdizimi/Veri Türleri ve Atama Operatörleri.md>)
