@@ -5,7 +5,6 @@
   * [Python Nedir?](https://app.gitbook.com/s/agZ2Pv9tw7NxHg5jQ0Bj/python-ile-tanisin#python-nedir)
   * [Python'u Kim Yaptı?](https://app.gitbook.com/s/agZ2Pv9tw7NxHg5jQ0Bj/python-ile-tanisin#pythonu-kim-yapti)
   * [PEP 8 Bilgisi](python-ile-tanisin/pep-8-bilgisi.md)
-  * [Kısaca Python](python-ile-tanisin/kisaca-python.md)
 * [Sözdizimi](soezdizimi/README.md)
   * [Sözdizimi Kuralları](soezdizimi/soezdizimi-kurallari.md)
 
