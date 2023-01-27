@@ -6,8 +6,6 @@
   * [Python'u Kim Yaptı?](https://app.gitbook.com/s/agZ2Pv9tw7NxHg5jQ0Bj/python-ile-tanisin#pythonu-kim-yapti)
   * [PEP 8 Bilgisi](python-ile-tanisin/pep-8-bilgisi.md)
   * [Kısaca Python](python-ile-tanisin/kisaca-python.md)
-* [Temel Konular](temel-konular/README.md)
-  * [Veri](temel-konular/veri.md)
 * [Sözdizimi](soezdizimi/README.md)
   * [Sözdizimi Kuralları](soezdizimi/soezdizimi-kurallari.md)
 
@@ -37,6 +35,6 @@
   * [3.x Sözlük](3.-python-objeleri-ve-veri-yapilari/3.x-soezluek/README.md)
     * [...](3.-python-objeleri-ve-veri-yapilari/3.x-soezluek/....md)
 * [Kılavuzcu Olun!](kilavuzcu-olun.md)
-* [⭐⭐⭐](undefined/README.md)
+* [⭐⭐⭐](undefined.md)
   * [Sözdizimi](undefined/soezdizimi/README.md)
     * [Python'da Veri Türleri](<undefined/soezdizimi/Veri Türleri ve Atama Operatörleri.md>)
