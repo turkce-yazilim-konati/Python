@@ -12,13 +12,13 @@ Python programlama dilini, bir kez olsun yazılımcılık alanına göz atmış 
 
 ## Kısaca Python
 
-* <mark style="color:green;">**Python**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> bir programlama dilidir.
+* <mark style="color:green;">**Python**</mark> bir programlama dilidir.
   * Ünlüdür. Kolaydır. Güçlüdür. Yapısı anlaşılırdır.
-* <mark style="color:green;">****</mark>[<mark style="color:green;">**Python**</mark>'u var eden kişi <mark style="color:purple;">**Guido Van Rossum**</mark>.](<README (1).md#pythonu-kim-var-etti>)
+* [<mark style="color:green;">**Python**</mark>'u var eden kişi <mark style="color:purple;">**Guido Van Rossum**</mark>.](<README (1).md#pythonu-kim-var-etti>)&#x20;
   * 1990'larda var edildi.
 * <mark style="color:green;">**Python**</mark>'da [PEP 8](python-ile-tanisin/pep-8-bilgisi.md) kuralları geçerlidir.
 * <mark style="color:green;">**Python**</mark> ile yeni başlayan olsanız dahi bir başlangıç atabilirsiniz.
-* <mark style="color:green;">**Python**</mark>, <mark style="color:green;">****</mark> piton adlı yılan ile ilişkilendirilir ancak başkalarının **yanılarak yakıştırmasıdır.**
+* <mark style="color:green;">**Python**</mark>, piton adlı yılan ile ilişkilendirilir ancak başkalarının **yanılarak yakıştırmasıdır.**
 * <mark style="color:green;">**Python**</mark>, derlenmeye gerek duymaz.
   * Derlenmediği için çabukluk kazandırır. :muscle:
 * <mark style="color:green;">**Python**</mark> birçok dilden yeğ görülüp tutulmaktadır.
@@ -46,7 +46,7 @@ Python programlama dilini, bir kez olsun yazılımcılık alanına göz atmış 
 
 ## Python Nedir?
 
-Python bir programlama dilidir. Böyle olsa dahi türdeşlerin ayrıldığı yanları vardır. Başka programlama dilleri derlenmeye gerek duyar iken Python, derlenmeye gerek duymaz. Bu özelliği ile programlama yapan kişiyi bekletmez yavaşlatmaz. Dilin yapısı arı duru olduğu için pek çok kişi başka dillerden yeğ görmektedir. Bunun bir getirisi, yazdığınız programı bir başkası okur okumaz anlayabilir ve tersice.
+Python bir programlama dilidir. Böyle olsa dahi türdeşlerin ayrıldığı yanları vardır. Başka programlama dilleri derlenmeye gerek duyar iken Python derlenmeye gerek duymaz. Bu özelliği ile programlama yapan kişiyi bekletmez yavaşlatmaz. Dilin yapısı arı duru olduğu için pek çok kişi başka dillerden yeğ görmektedir. Bunun bir getirisi, yazdığınız programı bir başkası okur okumaz anlayabilir ve tersice.
 
 Python, varlığının taşıdığı tüm özellikleri ile büyük bir ün kazanmıştır. Tanınmış büyük işletmelerce kullanılmaktadır. Günümüzde Türkiye'deki işletmelerde kullanılmaktadır. Türlü eğitim kurumlarında öğretilmektedir.
 
@@ -56,8 +56,8 @@ Python, varlığının taşıdığı tüm özellikleri ile büyük bir ün kazan
 
 <figure><img src=".gitbook/assets/Guido van Rossum 1999 2006 2019.gif" alt=""><figcaption><p>1999, 2006, 2019 - Guido van Rossum</p></figcaption></figure>
 
-| Görüntüde gördüğünüz Python programlama dilini var eden kişinin adı <mark style="color:purple;">**Guido Van Rossum**</mark>'dur. Hollandalıdır. Pythonu var etmeye 1990'larda kolları sıvayıp başlamıştır. Sıra adını koymaya geldiğinde, **The Monty Python** adlı bir İngiliz gülgü toparının **Monty Python’s Flying Circus** adlı gösterisinden esinlenmiş, programlama dilinin adını **Python** adını koymuştur. Gerçek böyle olsa dahi düşüncelerde yılan türü piton ile ilişkilendirilmesine engel olmamıştır. | ![](.gitbook/assets/19747589\_8a6z\_ag9l\_210716.jpg) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Görüntüde gördüğünüz Python programlama dilini var eden kişi Hollandalıdır ve adı <mark style="color:purple;">**Guido Van Rossum**</mark>'dur. Python'u var etmeye 1990'larda kolları sıvayıp başlamıştır. Sıra programlama diline ad koymaya geldiğinde, **The Monty Python** adlı bir İngiliz gülgü toparının **Monty Python’s Flying Circus** adlı gösterisinden esinlenmiştir. Gerçek böyle olsa dahi düşüncelerde yılan türü piton ile ilişkilendirilmesine engel olmamıştır. | ![](.gitbook/assets/19747589\_8a6z\_ag9l\_210716.jpg) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 
 :arrow\_up: [Başa dön.](<README (1).md#pythonu-tanimaniz-icin-sunlardan-soez-edecegiz.>)
 
@@ -102,9 +102,9 @@ Python ile türlü türlü veritabanları kullanılabilir.
 
 Programlama dili denince anlamanızı istediğimiz şudur:&#x20;
 
-> _"Bir bakışta anlaşılamayan yığma yazılar bütünü ile bilgisayara işler yaptırmak."_
+> _"Bilgisayara bir takım işler yaptırmak için ilk bakışta anlaşılamayan yığma yazıların yazılmasını sağlayan sayılara ve sözlere dayalı kendine özgü düzeni olan bir bütünlük."_
 
-Durun durun! Kaygılanıp gözünüz korkması yersiz.
+Durun durun! Kaygılandırıp gözünüz korkutmak istemeyiz. Programlama dilleri birçok kişi için çocuk oyuncağı gibidir. Günümüzde ilkokula giden çocuklar dahi programlama dilleri ile tanışır tanışmaz kullanabilmektedir.
 
 Bir programlama dili, donanımlar üstünde sizi bey eder. İşler, atın dizginlerini kavrayan at binicisinin ata yön vermesi gibidir. Programlama dilleri, donanımları kullanabilmenize yarar. Bu donanımlar, bilgisayar işlemcileriden bilgisayarların kendisine dek türlü türlü yapılar olabilir. Yeni bilgiler kazandıkça kendinizi bir bey gibi, bir han gibi, bir hanım gibi duyacaksınız.&#x20;
 

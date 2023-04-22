@@ -2,8 +2,8 @@
 
 * [Python Kılavuzu](README.md)
 * [Python İle Tanışın](<README (1).md>)
-  * [Python Nedir?](https://app.gitbook.com/s/agZ2Pv9tw7NxHg5jQ0Bj/python-ile-tanisin#python-nedir)
-  * [Python'u Kim Yaptı?](https://app.gitbook.com/s/agZ2Pv9tw7NxHg5jQ0Bj/python-ile-tanisin#pythonu-kim-yapti)
+  * [Python Nedir?](http://localhost:5000/s/agZ2Pv9tw7NxHg5jQ0Bj/python-ile-tanisin#python-nedir)
+  * [Python'u Kim Yaptı?](http://localhost:5000/s/agZ2Pv9tw7NxHg5jQ0Bj/python-ile-tanisin#pythonu-kim-yapti)
   * [PEP 8 Bilgisi](python-ile-tanisin/pep-8-bilgisi.md)
 * [Sözdizimi](soezdizimi/README.md)
   * [Sözdizimi Kuralları](soezdizimi/soezdizimi-kurallari.md)
