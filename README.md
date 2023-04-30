@@ -14,10 +14,12 @@ layout: landing
 > "_Bilgi düzeyiniz ne olur ise olsun, ister çaylak olun ister uzman. Bu kılavuz size göre. Python'u anlattığımız yönleri ile her kişinin tanıyıp çabucak öğrenebileceği, okuyup kolayca anlayabileceği bir kılavuz yazmaktayız._"
 
 1. [README (1).md](<README (1).md> "mention")
-   1. [#programlama-dili-nedir](<README (1).md#programlama-dili-nedir> "mention")
+   1. [#kisaca-python](<README (1).md#kisaca-python> "mention")
    2. [#python-nedir](<README (1).md#python-nedir> "mention")
-   3. [#pythonu-kim-var-etti](<README (1).md#pythonu-kim-var-etti> "mention")
-   4. [#caylak-degil-misiniz](<README (1).md#caylak-degil-misiniz> "mention")
-2. [Broken link](broken-reference "mention")
-3. [niye-python-oegrenmeliyim.md](python-ogrenme-kilavuzu/niye-python-oegrenmeliyim.md "mention")
-4. [ilk-adimlar.md](python-ogrenme-kilavuzu/ilk-adimlar.md "mention")
+   3. [#programlama-dili-nedir](<README (1).md#programlama-dili-nedir> "mention")
+   4. [#pythonu-kim-yapti](<README (1).md#pythonu-kim-yapti> "mention")
+   5. [#python-ile-neler-yapilabilir-edilebilir-islenebilir-kililabilir-kullanilabilir-eylenebilir-olabilir](<README (1).md#python-ile-neler-yapilabilir-edilebilir-islenebilir-kililabilir-kullanilabilir-eylenebilir-olabilir> "mention")
+   6. [#caylak-degil-misiniz](<README (1).md#caylak-degil-misiniz> "mention")
+2. [niye-python-oegrenmeliyim.md](python-ogrenme-kilavuzu/niye-python-oegrenmeliyim.md "mention")
+3. [ilk-adimlar.md](python-ogrenme-kilavuzu/ilk-adimlar.md "mention")
+
