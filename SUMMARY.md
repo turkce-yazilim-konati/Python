@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Python Kılavuzu](README.md)
-* [Python İle Tanışın](<README (1).md>)
-  * [Kısaca Python](http://localhost:5000/s/agZ2Pv9tw7NxHg5jQ0Bj/python-ile-tanisin#kisaca-python)
-  * [Python Nedir?](http://localhost:5000/s/agZ2Pv9tw7NxHg5jQ0Bj/python-ile-tanisin#python-nedir)
-  * [Python'u Kim Yaptı?](http://localhost:5000/s/agZ2Pv9tw7NxHg5jQ0Bj/python-ile-tanisin#pythonu-kim-yapti)
-  * [PEP 8 Bilgisi](python-ile-tanisin/pep-8-bilgisi.md)
+* [Python İle Tanışma](python-ile-tanisma/README.md)
+  * [Kısaca Python](http://localhost:5000/s/agZ2Pv9tw7NxHg5jQ0Bj/python-ile-tanisma#kisaca-python)
+  * [Python Nedir?](http://localhost:5000/s/agZ2Pv9tw7NxHg5jQ0Bj/python-ile-tanisma#python-nedir)
+  * [Python'u Kim Yaptı?](http://localhost:5000/s/agZ2Pv9tw7NxHg5jQ0Bj/python-ile-tanisma#pythonu-kim-yapti)
+  * [PEP 8 Bilgisi](python-ile-tanisma/pep-8-bilgisi.md)
 * [Sözdizimi](soezdizimi/README.md)
   * [Sözdizimi Kuralları](soezdizimi/soezdizimi-kurallari.md)
 

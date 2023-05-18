@@ -4,7 +4,7 @@ layout: editorial
 
 # Sözdizimi Kuralları
 
-Python'un sözdizimi kuralları[ PEP 8](../python-ile-tanisin/pep-8-bilgisi.md) standartına bağlıdır. Python'da kodlar soldan sağa ve yukarıdan aşağı okunarak çalışır. Okumadı iseniz [PEP 8](../python-ile-tanisin/pep-8-bilgisi.md) yazımızı okuyarak ayrıntılı bilgi edinebilirsiniz.
+Python'un sözdizimi kuralları[ PEP 8](../python-ile-tanisma/pep-8-bilgisi.md) standartına bağlıdır. Python'da kodlar soldan sağa ve yukarıdan aşağı okunarak çalışır. Okumadı iseniz [PEP 8](../python-ile-tanisma/pep-8-bilgisi.md) yazımızı okuyarak ayrıntılı bilgi edinebilirsiniz.
 
 ## Python'da Değişken Kuralları
 

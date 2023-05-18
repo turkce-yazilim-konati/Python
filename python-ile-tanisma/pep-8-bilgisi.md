@@ -12,14 +12,14 @@ PEP 8 bir yazım kuralıdır. Python'da kodları yazar iken bir yazım düzenine
 
 (yakında)
 
-## PEP 8 Kurallarına Niye Uyulmalı?
+### PEP 8 Kurallarına Niye Uyulmalı?
 
 (yakında)
 
-## PEP 8 Kurallarını Yok Sayabilir Miyiz?
+### PEP 8 Kurallarını Yok Sayabilir Miyiz?
 
 (yakında)
 
-## PEP 8 Ve Okunabilirliğin Önemi
+### PEP 8 Ve Okunabilirliğin Önemi
 
 (yakında)

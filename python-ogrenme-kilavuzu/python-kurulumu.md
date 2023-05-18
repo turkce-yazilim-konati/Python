@@ -17,7 +17,11 @@ Kurulum dosyasına çift tıkladığınızda karşınıza ilk gelen ekranda, pen
 > 1. **Use admin privileges when installing py.exe**
 > 2. **Add Python.exe to PATH**
 
+<div align="center">
+
 <figure><img src="../.gitbook/assets/python3-11-kurulum.png" alt=""><figcaption><p>"Add python.exe to PATH" Seçeneğini işaretleyiniz.</p></figcaption></figure>
+
+</div>
 
 Burada ilk kutucuk zaten seçilidir. Bunu bu şekilde bırakabilirsiniz. İkinci kutucuk ise Python’ı yola eklememizi, böylece yalnızca `python` komutu vererek Python’ı başlatabilmemizi sağlayacak. O yüzden oradaki ikinci kutucuğu da işaretliyoruz.
 
@@ -40,7 +44,11 @@ Python kurulumunu yaptık. Şimdi sağlamasını yapalım ve yüklediğimiz pyth
 * Çalıştır uygulamasında gerekli alana “**`CMD`**” yazarak “**Enter**” tuşuna basalım.
 * Bu işlemlerden sonra karsımıza çıkacak konsol ekranına “**`python --V`**” veya “**`python --version`**” yazarak bilgisayarımızda herhangi bir python sürümünün **mevcut olup olmadığını** kontrol edebilirsiniz.
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/Ekran görüntüsü 2022-11-26 020628.png" alt=""><figcaption><p>Yüklü sürüm bilgisi gösterilir.</p></figcaption></figure>
+
+</div>
 
 ### Python Kurulum ve Çalışma Dizini
 

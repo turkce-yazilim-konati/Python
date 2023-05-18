@@ -13,7 +13,7 @@ Bilgisayarlar ile içli dışlı olur iseniz er geç kendi kendine işlettirmek 
 
 Günler günleri kovaladıkça sevdikleriniz ile, saydıklarınız ile fotoğraflar çekildiniz. Bu fotoğrafların adlarına, fotoğrafın târihini yazmak istiyorsunuz. Ancak gözlerinize inanamadınız. Onlarcanın sözü olmaz, yüzlerce az kalır, binlerce fotoğrafınız birikmiş.
 
-<div>
+<div align="center">
 
 <figure><img src="https://images.unsplash.com/photo-1533158307587-828f0a76ef46?crop=entropy&#x26;cs=tinysrgb&#x26;fm=jpg&#x26;ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxwaG90b2dyYXBoc3xlbnwwfHx8fDE2Njc5NjQzODg&#x26;ixlib=rb-4.0.3&#x26;q=80" alt=""><figcaption></figcaption></figure>
 
