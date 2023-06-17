@@ -56,8 +56,7 @@ Python, varlığının taşıdığı tüm özellikleri ile büyük bir ün kazan
 
 <figure><img src="../.gitbook/assets/Guido van Rossum 1999 2006 2019.gif" alt=""><figcaption><p>1999, 2006, 2019 - Guido van Rossum</p></figcaption></figure>
 
-| Görüntüde gördüğünüz Python programlama dilini var eden kişi Hollandalıdır ve adı <mark style="color:purple;">**Guido Van Rossum**</mark>'dur. Python'u var etmeye 1990'larda kolları sıvayıp başlamıştır. Sıra programlama diline ad koymaya geldiğinde, **The Monty Python** adlı bir İngiliz gülgü toparının **Monty Python’s Flying Circus** adlı gösterisinden esinlenmiştir. Gerçek böyle olsa dahi düşüncelerde yılan türü piton ile ilişkilendirilmesine engel olmamıştır. | ![](../.gitbook/assets/19747589\_8a6z\_ag9l\_210716.jpg) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+<table data-header-hidden><thead><tr><th width="416"></th><th></th></tr></thead><tbody><tr><td>Görüntüde gördüğünüz Python programlama dilini var eden kişi Hollandalıdır ve adı <mark style="color:purple;"><strong>Guido Van Rossum</strong></mark>'dur. Python'u var etmeye 1990'larda kolları sıvayıp başlamıştır. Sıra programlama diline ad koymaya geldiğinde, <strong>The Monty Python</strong> adlı bir İngiliz gülgü toparının <strong>Monty Python’s Flying Circus</strong> adlı gösterisinden esinlenmiştir. Gerçek böyle olsa dahi düşüncelerde yılan türü piton ile ilişkilendirilmesine engel olmamıştır.</td><td><img src="../.gitbook/assets/19747589_8a6z_ag9l_210716.jpg" alt=""></td></tr></tbody></table>
 
 :arrow\_up: [Başa dön.](./#pythonu-tanimaniz-icin-sunlardan-soez-edecegiz.)
 
@@ -115,6 +114,12 @@ Kendinizi çaylak sayamayacak düzeyde mi görüyorsunuz? Hiç bunalmayın sık�
 
 [Haydi! Python öğrenmeye!](../python-ogrenme-kilavuzu/niye-python-oegrenmeliyim.md)
 
+<details>
 
+<summary>Bu bet içeriğinde emeği olanlar.</summary>
+
+Volkan TAŞ
+
+</details>
 
 [^1]: 
