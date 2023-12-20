@@ -1,4 +1,4 @@
-# 👨🎓 Neden Python Öğrenmeliyim?
+# Niye Python Öğrenmeliyim?
 
 Python bir programlama dilidir. Python programlama dili kullanışlıdır, öğrenmesi kolaydır. Verimli üst düzey veri yapılarına sahiptir ve nesne yönelimli programlamaya yalın ama etkili bir yaklaşımı vardır. Python'un çekici söz dizimi ve devingen yazımı, yorumlanmış doğasıyla birlikte, onu çoğu işletim dizgesindeki birçok alanda betik oluşturma ve hızlı uygulama geliştirme için uygun bir dil durumuna getirir.
 
